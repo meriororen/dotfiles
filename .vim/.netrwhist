@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/isa/.vim'
+let g:netrw_dirhist_2='/Users/isa/.vim/autoload'
+let g:netrw_dirhist_3='/Users/isa/.vim'
+let g:netrw_dirhist_4='/Users/isa/.oh-my-zsh'
+let g:netrw_dirhist_5='/Users/isa/.rvm'
+let g:netrw_dirhist_6='/Users/isa/code/Rails/store'
+let g:netrw_dirhist_7='/private/var/root'
+let g:netrw_dirhist_8='/Users/isa/Documents/rails3-bootstrap-devise-cancan/config'
+let g:netrw_dirhist_9='/Users/isa/.oh-my-zsh'
